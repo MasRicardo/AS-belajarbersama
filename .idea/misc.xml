@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/drawable/bg_home_wave.xml" value="0.1225" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/drawable/bg_rounded_transs.xml" value="0.171" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_kalkulator.xml" value="0.264" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_lingkaran.xml" value="0.2359375" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_materi.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_materilingkaran.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_materipanjang.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_materipersegi.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_materisegitiga.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_panjang.xml" value="0.25" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_persegi.xml" value="0.264" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_ruang.xml" value="0.2359375" />
+        <entry key="..\:/Users/masrc/AndroidStudioProjects/kelompokbiasa/app/src/main/res/layout/activity_segitiga.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
